@@ -50,7 +50,8 @@ Here are some ideas to get you started:
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=cjjss11)](https://solved.ac/cjjss11)
  
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjjss11&layout=compact)](https://github.com/cjjss11/github-readme-stats)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjjss11&show_icons=true&theme=radical)
