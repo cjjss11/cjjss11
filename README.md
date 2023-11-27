@@ -44,6 +44,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
  </div>
+
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=cjjss11)](https://solved.ac/cjjss11)
  
  
 
