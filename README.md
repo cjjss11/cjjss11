@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 
  <a href="https://velog.io/@cjjss11"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@cjjss11"/></a>
 
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjjss11&show_icons=true&theme=radical)
