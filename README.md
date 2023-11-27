@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
  <a href="https://velog.io/@cjjss11"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@cjjss11"/></a>
 
+ <h1>📚Stacks</h1>
+
 <div>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
