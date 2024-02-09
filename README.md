@@ -52,5 +52,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjjss11&layout=compact)](https://github.com/cjjss11/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjjss11&show_icons=true&theme=radical)
 
